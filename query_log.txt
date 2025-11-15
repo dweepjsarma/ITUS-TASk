@@ -1,0 +1,5 @@
+2025-11-15 21:44:02,650 | INFO | get_quarterly_data | params={'accord_code': 102355, 'field': 'Balkrishna Industries Ltd.', 'date': '2025-06-30'} | time_ms=10.56 | success=False | error=near "Ltd": syntax error
+2025-11-15 21:45:24,093 | INFO | get_quarterly_data | params={'accord_code': 102355, 'field': 'quarterly_ebitda_margins', 'date': '2025-06-30'} | time_ms=8.28 | success=True
+2025-11-15 21:46:11,774 | INFO | get_quarterly_data | params={'accord_code': 100186, 'field': 'quarterly_ebitda_margins', 'date': '2025-06-30'} | time_ms=3.02 | success=True
+2025-11-15 21:46:34,181 | INFO | get_quarterly_data | params={'accord_code': 100186, 'field': 'quarterly_ebitda_margins', 'date': '2025-06-30'} | time_ms=3.26 | success=True
+2025-11-15 21:46:34,256 | INFO | get_series | params={'accord_code': 100186, 'field': 'quarterly_ebitda_margins', 'start_date': '2022-03-31', 'end_date': '2025-09-30'} | time_ms=70.87 | success=True
